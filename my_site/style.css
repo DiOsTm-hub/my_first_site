@@ -33,10 +33,10 @@ body {
 h1 {	
 		font-family: 'ALG';
 		font-size: 18px;
-		
+		font-weight: 800;
 }
 .post p {
-		font-family: 'ibi', sans-serif;
+		font-family: 'ALG';
 		font-size: 12px;
 		margin-bottom: 5px;
 }
@@ -47,12 +47,6 @@ h1 {
     font-family: 'Beer money';
     src: url("./fonts/bm/beermoney.ttf") format('truetype');
 	src: url("./fonts/bm/beermoney.woff") format('woff');
-    font-weight: 400;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'ibi';
-	src: url("./fonts/ibi/intro-black-italic.woff") format('woff');
     font-weight: 400;
     font-style: normal;
 }
